@@ -34,7 +34,7 @@ import com.google.android.material.tabs.TabLayout
  *  -This apparently fires up whatever intent is under tab 0 of TabPagerAdapter, which is
  *   ObserverFragment(), see TabPagerAdapter for more
  *   In basic MainActivity first intent is simply fired up by 'setContentView(R.layout.activity_main)'<br>
- *   Alternatively, one could MainActivty's container with TabFragment as follows:<br>
+ *   Alternatively, one could replace MainActivty's container with TabFragment as follows:<br>
  *   MainActivity could replace it's intent by calling:<br>
  *           if (savedInstanceState == null) {<br>
  *              supportFragmentManager.beginTransaction()<br>
