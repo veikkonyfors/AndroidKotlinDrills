@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/emc2NoactivityTabbed" />
             <option value="$PROJECT_DIR$/app/takephoto" />
           </set>
         </option>
