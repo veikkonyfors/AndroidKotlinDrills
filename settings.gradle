@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidKotlinDrills"
 include ':app'
 include ':app:takephoto'
-include ':app.emc2NoactivityTabbed'
